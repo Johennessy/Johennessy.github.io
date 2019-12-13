@@ -722,7 +722,7 @@ section.lazy-placeholder:after {
 .cid-rKyruKiHsP {
   background: #ffffff;
   padding-top: 15px;
-  padding-bottom: 15px;
+  padding-bottom: 0px;
 }
 .cid-rKyruKiHsP .image-block {
   margin: auto;
@@ -750,7 +750,7 @@ section.lazy-placeholder:after {
   color: #fff;
 }
 .cid-rKysG7LDBh {
-  padding-top: 15px;
+  padding-top: 0px;
   padding-bottom: 15px;
   background-color: #ffffff;
 }
