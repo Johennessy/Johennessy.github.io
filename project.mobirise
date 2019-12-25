@@ -182,7 +182,7 @@
             }
           },
           "_name": "custom-html",
-          "_customHTML": "<section mbr-id=\"_anchor\" class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline=\"\" title=\"Oben\" name=\"paddingTop\" min=\"0\" max=\"1\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline=\"\" title=\"Unten\" name=\"paddingBottom\" min=\"0\" max=\"1\" step=\"1\" value=\"0.5\">\n        <input type=\"color\" title=\"Hintergrundfarbe\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n<center> \n\n<a href=\"https://raw.githubusercontent.com/Johennessy/JohennessyBeats/master/wings/wings%20-%20Stereo%20Out_mp.mp3\">Download free MP3 </a> or full BeatsPack for 3$ \n  \n  \n </center>\n</section>",
+          "_customHTML": "<section mbr-id=\"_anchor\" class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline=\"\" title=\"Oben\" name=\"paddingTop\" min=\"0\" max=\"1\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline=\"\" title=\"Unten\" name=\"paddingBottom\" min=\"0\" max=\"1\" step=\"1\" value=\"0.5\">\n        <input type=\"color\" title=\"Hintergrundfarbe\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n<center> \n\n<a href=\"https://github.com/Johennessy/JohennessyBeats/raw/master/wings/wings%20-%20Stereo%20Out_mp.rar\">Download free MP3 </a> or full BeatsPack for 3$ \n  \n  \n </center>\n</section>",
           "_anchor": "custom-html-i",
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
